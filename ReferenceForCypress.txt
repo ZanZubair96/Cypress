@@ -1,0 +1,14 @@
+Ref:
+https://docs.cypress.io/guides/getting-started/installing-cypress#Opening-Cypress
+https://frontendtestfest.com/?utm_campaign=fetf&utm_medium=email&utm_source=FETF_Email_5&utm_term=Cypress&utm_content=text%20link
+https://glebbahmutov.com/blog/fixtures-in-custom-commands/
+https://glebbahmutov.com/blog/writing-tests-progress/
+
+
+Reference For Parallel Execution:
+https://github.com/sorry-cypress/sorry-cypress
+
+
+Reference for Reporting:
+http://blog.geveo.com/Allure-Report-Integration-with-Cypress
+
